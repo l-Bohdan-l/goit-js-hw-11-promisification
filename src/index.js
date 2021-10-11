@@ -1,1 +1,1 @@
-import './js/bgColorChange.js';
+import './js/task-1.js';
